@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menuitemSaveList"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="@string/caption_menu_savelist" android:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/menuitemDeleteList"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/caption_menu_deletelist">
+    </item>
+
+    <item
+        android:id="@+id/menuitemClearCheck"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="@string/caption_menu_clearcheck" android:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/menuitemPreference"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/caption_menu_preference">
+    </item>
+
+</menu>

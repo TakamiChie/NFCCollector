@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caption_dialog_appendcard">カードの登録</string>
+    <string name="caption_menu_savelist">リスト保存</string>
+    <string name="caption_menu_deletelist">リスト削除</string>
+    <string name="caption_menu_preference">設定</string>
+    <string name="caption_menu_clearcheck">チェックのクリア</string>
+    <string name="newListName">無名のコレクション</string>
+    <string name="wording_dialog_deletecollection">「%s」を削除しますか？</string>
+    <string name="wording_dialog_queryListSaved">リストを保存しますか？\n下で指定した名前で保存されます。</string>
+    <string name="wording_dialog_savetofailed">ファイルの保存に失敗しました。\n別の名前をお試しください。</string>
+    <string name="wording_dialog_loadfailedInvalidFormat">ファイルの読み込みに失敗しました。\nファイルが壊れている可能性があります。</string>
+    <string name="wording_dialog_loadfailed">ファイルの読み込みに失敗しました。</string>
+    <string name="caption_dialog_finished">完了</string>
+    <string name="wording_dialog_finishallcheck">全てのチェックが完了しました</string>
+</resources>
